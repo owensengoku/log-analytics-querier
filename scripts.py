@@ -3,7 +3,7 @@ import json
 from azure.common.credentials import ServicePrincipalCredentials
 from azure import loganalytics
 
-TENANT_ID = '72f988bf-86f1-41af-91ab-2d7cd011db47' # 目錄 (租用戶) 識別碼 
+TENANT_ID = '' # 目錄 (租用戶) 識別碼 
 CLIENT_ID = '' # 應用程式 (用戶端) 識別碼
 KEY = '' # 用戶端密碼
 WORKSPACE_ID = '' # 工作區ID
